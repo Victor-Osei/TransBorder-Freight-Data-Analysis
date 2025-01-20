@@ -65,17 +65,3 @@ The goal is to analyze cross-border freight transportation data to uncover ineff
 ### 6. **Deployment**
    - Develop visual dashboards and reports for stakeholders.
    
-
-## **Setup Instructions**
-1. Clone the repository:
-   ```bash
-   git clone <repository_url>
-
-
-
-
-
-
-Delay vs Freight Volume
-Null Hypothesis (H₀): Delays are not related to freight volume.
-Alternative Hypothesis (H₁): Delays are correlated with freight volume.
