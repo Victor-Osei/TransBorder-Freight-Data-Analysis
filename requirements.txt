@@ -9,3 +9,4 @@ statsmodels
 streamlit
 jupyter
 pyunpack
+missingno
