@@ -2,3 +2,5 @@ transBF/
 data
 combined_data.csv
 temp_extracted_files
+chunked_data
+processed_combined_data.csv
