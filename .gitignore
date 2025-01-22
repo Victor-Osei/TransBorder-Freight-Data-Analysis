@@ -6,3 +6,5 @@ chunked_data
 processed_combined_data.csv
 processed_combined_data_filled.csv
 processed_combined_data_transformed.csv
+processed_combined_data_transformed_chunks.csv
+processed_combined_data_reduced.csv
