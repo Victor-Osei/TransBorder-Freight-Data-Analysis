@@ -14,8 +14,8 @@ The analysis will address the following questions:
 3. How does the shipping weight vary across different transportation modes?
 4. What are the trends in trade value over the years?
 5. Which commodities have the highest tradae value?
-6. Which ?
-7. What ?
+6. How do freight charges vary by transportation mode and trade type?
+7. What is the relationship between shipping weight and frieght charges?
 
 
 ## **Hypothesis**
