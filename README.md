@@ -1,10 +1,10 @@
 # TransBorder-Freight-Data-Analysis
 
 ### Overview
-The TransBorder Freight Data Analysis project aims to uncover insights into the efficiency, safety, and performance of freight transportation across North America. Using data from the Bureau of Transportation Statistics (BTS), this analysis will identify patterns, operational inefficiencies, safety risks, and economic factors influencing cross-border trade. 
+The TransBorder Freight Data Analysis project aims to uncover insights into the efficiency, safety, and performance of freight transportation across North America. Using data from the Bureau of Transportation Statistics (BTS), this analysis will identify patterns, operational inefficiencies and economic factors influencing cross-border trade. 
 
 
-This project is to analyze the transportation data provided by the Bureau of Transportation Statistics (BTS) to uncover insights related to the efficiency, safety, and environmental impacts of freight transportation across various modes (road, rail, air, and water). 
+This project is to analyze the transportation data provided by the Bureau of Transportation Statistics (BTS) to uncover insights related to the efficiency, and geographical impacts of freight transportation across various modes (road, rail, air, and water). 
 
 
 ### Key Analytical Questions
@@ -44,7 +44,6 @@ The goal is to analyze cross-border freight transportation data to uncover ineff
      - Trade types (import/export).
      - Freight charges, 
      - Shipping weight and Value.
-     - Safety incident reports.
      - Year
 
  ### 3. **Data Preparation**
