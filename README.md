@@ -9,13 +9,13 @@ This project is to analyze the transportation data provided by the Bureau of Tra
 
 ### Key Analytical Questions
 The analysis will address the following questions:
-1. What are the trends in freight volume over time across different transportation modes?
-2. Which regions or borders experience the highest and lowest freight traffic?
-3. Where are the major operational bottlenecks, and how do they affect throughput?
-4. What are the most common safety incidents, and how can they be mitigated?
-5. How do global economic events impact cross-border freight movements?
-6. Which commodities dominate freight transportation, and how does this vary by mode?
-7. What are the cost trends associated with freight transportation across regions and modes?
+1. What is the distribution of trade types (import/export) across different transportation modes?
+2. Which countries are the top trading partners in terms of total trade value?
+3. Where ?
+4. What ?
+5. How ?
+6. Which ?
+7. What ?
 
 
 ## **Hypothesis**
