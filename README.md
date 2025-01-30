@@ -11,8 +11,8 @@ This project is to analyze the transportation data provided by the Bureau of Tra
 The analysis will address the following questions:
 1. What is the distribution of trade types (import/export) across different transportation modes?
 2. Which countries are the top trading partners in terms of total trade value?
-3. Where ?
-4. What ?
+3. How does the shipping weight vary across different transportation modes?
+4. What are the trends ?
 5. How ?
 6. Which ?
 7. What ?
