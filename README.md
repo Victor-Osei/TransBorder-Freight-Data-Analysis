@@ -59,7 +59,6 @@ The goal is to analyze cross-border freight transportation data to uncover ineff
    
 
 ### 5. **Evaluation**
-   - Validate findings through robust statistical methods.
    - Ensure insights are actionable and aligned with business goals.
 
 ### 6. **Deployment**
