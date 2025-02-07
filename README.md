@@ -54,8 +54,9 @@ The goal is to analyze cross-border freight transportation data to uncover ineff
 
 ### 4. **Analysis**
    - Perform exploratory data analysis (EDA) to uncover trends and patterns.
-   - Test the hypothesis on transportation cost variability by mode.
    - Use statistical methods to answer analytical questions and derive insights.
+   - Test the hypothesis to compare freight charges across different transportation modes
+   
 
 ### 5. **Evaluation**
    - Validate findings through robust statistical methods.
