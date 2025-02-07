@@ -48,9 +48,9 @@ The goal is to analyze cross-border freight transportation data to uncover ineff
 
  ### 3. **Data Preparation**
    - Cleaning and preprocessing raw data.
-   - Handling missing values, duplicates, and outliers.
-   - Feature engineering (e.g., freight costs per ton, delay trends).
+   - Handling missing values and duplicates
    - Creating visualizations for exploratory analysis.
+   
 
 ### 4. **Analysis**
    - Perform exploratory data analysis (EDA) to uncover trends and patterns.
