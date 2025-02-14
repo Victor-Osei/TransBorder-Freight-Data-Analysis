@@ -76,3 +76,18 @@ https://medium.com/@oseivictor10/exploring-the-borders-insights-from-transborder
    **PowerPoint Presentation**  
 https://docs.google.com/presentation/d/15KoMxNmXS0bL1Tv7BElnHG9TzdsJLdaE/edit?usp=sharing&ouid=108504450165081332340&rtpof=true&sd=true
 
+
+
+## Tools Used  
+
+1. **Python** - For data cleaning, manipulation, and Exploratory Data Analysis (EDA). Its extensive libraries, including Pandas and Matplotlib, facilitated efficient data processing and visualization.  
+
+2. **Pandas** - Enabled effective data wrangling and manipulation, making it easier to clean and structure the dataset for analysis.  
+
+3. **Matplotlib & Seaborn** - Utilized for data visualization to explore trends, patterns, and correlations within the dataset.  
+
+4. **Power BI** - Chosen for its powerful data visualization capabilities, it was used to create an interactive dashboard, providing stakeholders with actionable insights.  
+
+5. **VSCode** - Used for writing and maintaining clean, well-documented code throughout the project. 
+
+6. **GitHub** - Facilitated version control and collaborative development, ensuring the project’s progress was well-tracked and accessible. 
