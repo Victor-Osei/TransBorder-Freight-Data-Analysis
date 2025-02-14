@@ -62,7 +62,7 @@ The goal is to analyze cross-border freight transportation data to uncover ineff
    - Ensure insights are actionable and aligned with business goals.
 
 ### 6. **Deployment**
-   - Develop visual dashboards and reports for stakeholders using Power BI.
+   - Developed visual dashboard and report for stakeholders using Power BI.
    https://app.powerbi.com/groups/me/reports/637c8107-07dd-4500-bbc2-689f220038bd/7e4a712bec8ca5ec2995?experience=power-bi 
    
 ##  **Links**
@@ -73,5 +73,6 @@ https://medium.com/@oseivictor10/exploring-the-borders-insights-from-transborder
 
 
    **Powerpoint Link** 
+
 https://docs.google.com/presentation/d/15KoMxNmXS0bL1Tv7BElnHG9TzdsJLdaE/edit?usp=sharing&ouid=108504450165081332340&rtpof=true&sd=true
 
