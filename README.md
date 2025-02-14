@@ -21,6 +21,7 @@ The analysis will address the following questions:
 ## **Hypothesis**
 The project will test the following hypothesis:  
 **Null Hypothesis (H₀)**: Freight charges are independent of the mode of transportation.
+
 **Alternative Hypothesis (H₁)**: Freight charges vary significantly by the mode of transportation.
 
 This hypothesis will be tested to determine if transportation modes influence costs, which can inform strategies for optimizing freight expenditures.
