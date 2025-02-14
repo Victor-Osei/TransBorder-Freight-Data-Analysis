@@ -72,7 +72,6 @@ https://medium.com/@oseivictor10/exploring-the-borders-insights-from-transborder
 
 
 
-   **Powerpoint Link** 
-
+   **PowerPoint Presentation**  
 https://docs.google.com/presentation/d/15KoMxNmXS0bL1Tv7BElnHG9TzdsJLdaE/edit?usp=sharing&ouid=108504450165081332340&rtpof=true&sd=true
 
